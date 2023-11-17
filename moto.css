@@ -1,0 +1,110 @@
+body{
+    background:url("https://sx-chaumont-semoutiers.com/wp-content/uploads/2022/02/0cdbeac54eca78fcee4fadead9dc9b44-1536x1025.jpg");
+    background-size: 100%;
+}
+.navbar{
+    background-color: rgb(19, 72, 101);
+    height: 10%;
+    border: solid 2px black;
+    display: flex;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+}
+
+.btn-navbar{
+    width: 70%;
+}
+.liste-navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.taille{
+    font-size: 200%;
+    color: white;
+}
+
+
+.card{
+    width: 30%;
+}
+.modif-p{
+    color: white;
+    font-size: 200%;
+}
+.modif-h{
+    color: orange;
+    font-size: 300%;
+    
+}
+.container-img1>img{
+    justify-content: space-evenly;
+    width: 33%;
+}
+.container-img2>img{
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.modif-h1{
+    color: orange;
+    font-size: 300%;
+}
+.modif-h2{
+    color: orange;
+    font-size: 300%;
+}
+.modif-f1{
+    font-size: 300%;
+    color: white;
+    
+}
+.modif-f2{
+    font-size: 300%;
+    color: white;
+   
+}
+
+.modif-f3{
+    font-size: 300%;
+    color: white;
+}
+.modif-f3>img{
+    width: 35%;
+}
+.modif-f4{
+    font-size: 300%;
+    color: white;
+    text-align: center;
+}
+.modif-f4>img{
+    width: 50%;
+    display:flex;
+    margin: auto;
+    
+}
+.modif-f5{
+    font-size: 300%;
+    color: white;
+    text-align: center;
+}
+.modif-f5>img{
+    width:30%
+}
+.modif-t1{
+    font-size: 200%;
+    color: white;
+}
+.modif-t2{
+    font-size: 100%;
+    color: white;
+}
+.container-img>img{
+    margin: auto;
+    display:flex;
+    width: 250%;
+}
+.img:hover{
+   background-color: red;
+}
